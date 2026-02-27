@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カルチュラル・オートマティカ・フィーディング（feat. たなか）",
+  "base_artist": "水槽",
+  "createdAt": "2026-02-27T10:00:43.250954Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カルチュラル・オートマティカ・フィーディング (feat. たなか)",
+      "artist": "水槽",
+      "has_synced": false,
+      "path": "select/pl_01_カルチュラル・オートマティカ・フィーディング_(feat._たなか)_水槽.txt"
+    }
+  ]
+}
